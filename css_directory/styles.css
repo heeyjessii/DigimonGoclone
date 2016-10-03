@@ -1,0 +1,97 @@
+h1, h2, h3, .navigation {
+font-family: 'Sarpanch', sans-serif;
+}
+
+body {
+  font-family: 'lato', sans-serif;
+  font-size: 14px;
+  margin: 0px 0px 0px 0px;
+}
+
+
+
+.one {
+  background-color: white;
+}
+
+.navigation{
+  float: right;
+  list-style: none;
+}
+.navigation ul li {
+  display: inline-block;
+  margin: 25px 10px;
+}
+
+.navigation ul li:hover {
+  color: orange;
+  border-bottom: 2px solid orange;
+}
+
+.two {
+  background-color: blue;
+  background-image: url('../assets/hero.png');
+  height: 400px;
+  width: auto;
+  background-repeat: no-repeat;
+  background-position: right;
+  margin-top: 0px;
+  padding-top: 100px;
+  padding-left: 50px;
+}
+
+
+.talkie2 {
+  left: 120px;
+  height: 40px;
+  width: 300px;
+  text-align: left;
+}
+
+.all3 {
+  background-color: #DEDEDE;
+  height: 300px;
+  padding-left: 100px;
+}
+
+.three {
+  border:solid white 4px;
+  border-color: white;
+  background-color: white;
+  text-align: center;
+  border-radius: 13px;
+  background-image: url('../assets/talkie.png');
+  background-repeat: no-repeat;
+  background-position: right;
+  height: 250px;
+  width: 500px;
+
+}
+
+
+
+.four{
+  border: solid black 1px;
+  bottom: 50px;
+  left:50px;
+  height: 200px;
+  width: 300px;
+  border-radius: 13px;
+  float: left;
+  margin: 50px 25px 50px 25px;
+  box-shadow: 0px 0px 1px 1px grey; 
+
+}
+ 
+
+footer{
+  background-color: gray;
+  color: white;
+  width: 100%;
+  text-align:center;
+  height:30px;
+  padding-top: 10px;
+  padding-bottom: 15px;
+
+}
+
